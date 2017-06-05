@@ -1,6 +1,6 @@
 **Hello World**
 
-_this is our first GPS_
+**this is our first GPS**
 
 `today is Monday`
 
