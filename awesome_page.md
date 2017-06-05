@@ -4,5 +4,4 @@ _this is our first GPS_
 
 `today is Monday`
 
-[GPS guidlines](https://devbootcamp.instructure.com/courses/198/assignments/9185?module_item_id=47284)
-
+[GPS work](https://github.com/Sbrady11/phase-0-gps-1/blob/master/GPS_screenshot.png?raw=true)
